@@ -1,0 +1,27 @@
+.product {
+    border-radius: 15px;
+    width: 200px;
+    height: 350px;
+    margin: 20px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.product p {
+    margin: 2px;
+}
+
+.product img {
+    width: 200px;
+}
+
+.product .description {
+    text-align: center;
+}
+
+.product:hover {
+    transition: 0.3s ease-in;
+    cursor: pointer;
+}
