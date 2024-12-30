@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/cummings_maple/static/css/main.a14c5486.css",
+    "main.js": "/cummings_maple/static/js/main.8154c035.js",
+    "static/js/488.1280ed9e.chunk.js": "/cummings_maple/static/js/488.1280ed9e.chunk.js",
+    "static/media/1.jpg": "/cummings_maple/static/media/1.c73c33c98a79c742697b.jpg",
+    "static/media/5.jpg": "/cummings_maple/static/media/5.c73c33c98a79c742697b.jpg",
+    "static/media/4.jpg": "/cummings_maple/static/media/4.a312c14f1301d42a757d.jpg",
+    "static/media/8.jpg": "/cummings_maple/static/media/8.a312c14f1301d42a757d.jpg",
+    "static/media/2.jpg": "/cummings_maple/static/media/2.6dcdeef703f1f247f611.jpg",
+    "static/media/6.jpg": "/cummings_maple/static/media/6.6dcdeef703f1f247f611.jpg",
+    "static/media/3.jpg": "/cummings_maple/static/media/3.933b181b0dafccaa7302.jpg",
+    "static/media/7.jpg": "/cummings_maple/static/media/7.933b181b0dafccaa7302.jpg",
+    "static/media/aboutUs.jpg": "/cummings_maple/static/media/aboutUs.1a4a1a37e5fbbcb83b59.jpg",
+    "index.html": "/cummings_maple/index.html",
+    "main.a14c5486.css.map": "/cummings_maple/static/css/main.a14c5486.css.map",
+    "main.8154c035.js.map": "/cummings_maple/static/js/main.8154c035.js.map",
+    "488.1280ed9e.chunk.js.map": "/cummings_maple/static/js/488.1280ed9e.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a14c5486.css",
+    "static/js/main.8154c035.js"
+  ]
+}
